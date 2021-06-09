@@ -1,0 +1,8 @@
+# Cake recipe
+
+
+## How to
+
+1. Add flavour
+2. Add sugar
+3. Add water
